@@ -1,0 +1,6 @@
+{
+  "name": "Dota 2 Guide (راهنمای هیرو)",
+  "description": "Offline Dota 2 Hero Guide with meta builds, tips, and abilities in Persian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

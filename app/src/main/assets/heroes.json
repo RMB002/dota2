@@ -1,0 +1,1145 @@
+[
+  {
+    "id": "antimage",
+    "name": "Anti-Mage",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "axe",
+    "name": "Axe",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/axe.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "bane",
+    "name": "Bane",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "bloodseeker",
+    "name": "Bloodseeker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "crystal_maiden",
+    "name": "Crystal Maiden",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/crystal_maiden.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "drow_ranger",
+    "name": "Drow Ranger",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/drow_ranger.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "earthshaker",
+    "name": "Earthshaker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earthshaker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "juggernaut",
+    "name": "Juggernaut",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/juggernaut.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "mirana",
+    "name": "Mirana",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mirana.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "morphling",
+    "name": "Morphling",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/morphling.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "nevermore",
+    "name": "Shadow Fiend",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nevermore.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "phantom_lancer",
+    "name": "Phantom Lancer",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_lancer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "puck",
+    "name": "Puck",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/puck.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "pudge",
+    "name": "Pudge",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "razor",
+    "name": "Razor",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/razor.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "sand_king",
+    "name": "Sand King",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sand_king.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "storm_spirit",
+    "name": "Storm Spirit",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/storm_spirit.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "sven",
+    "name": "Sven",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sven.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "tiny",
+    "name": "Tiny",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tiny.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "vengefulspirit",
+    "name": "Vengeful Spirit",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/vengefulspirit.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "windrunner",
+    "name": "Windranger",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/windrunner.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "zuus",
+    "name": "Zeus",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/zuus.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "kunkka",
+    "name": "Kunkka",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kunkka.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "lina",
+    "name": "Lina",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lina.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lion.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "shadow_shaman",
+    "name": "Shadow Shaman",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_shaman.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "slardar",
+    "name": "Slardar",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slardar.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "tidehunter",
+    "name": "Tidehunter",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tidehunter.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "witch_doctor",
+    "name": "Witch Doctor",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/witch_doctor.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "lich",
+    "name": "Lich",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lich.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "riki",
+    "name": "Riki",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/riki.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "enigma",
+    "name": "Enigma",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "tinker",
+    "name": "Tinker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tinker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "sniper",
+    "name": "Sniper",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sniper.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "necrolyte",
+    "name": "Necrophos",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/necrolyte.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "warlock",
+    "name": "Warlock",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/warlock.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "beastmaster",
+    "name": "Beastmaster",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/beastmaster.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "queenofpain",
+    "name": "Queen of Pain",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/queenofpain.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "venomancer",
+    "name": "Venomancer",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/venomancer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "faceless_void",
+    "name": "Faceless Void",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/faceless_void.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "skeleton_king",
+    "name": "Wraith King",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/skeleton_king.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "death_prophet",
+    "name": "Death Prophet",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/death_prophet.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "phantom_assassin",
+    "name": "Phantom Assassin",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_assassin.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "pugna",
+    "name": "Pugna",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pugna.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "templar_assassin",
+    "name": "Templar Assassin",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/templar_assassin.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "viper",
+    "name": "Viper",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/viper.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "luna",
+    "name": "Luna",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/luna.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "dragon_knight",
+    "name": "Dragon Knight",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dragon_knight.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "dazzle",
+    "name": "Dazzle",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dazzle.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "rattletrap",
+    "name": "Clockwerk",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rattletrap.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "leshrac",
+    "name": "Leshrac",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/leshrac.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "furion",
+    "name": "Nature's Prophet",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/furion.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "life_stealer",
+    "name": "Lifestealer",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/life_stealer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "dark_seer",
+    "name": "Dark Seer",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_seer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "clinkz",
+    "name": "Clinkz",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/clinkz.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "omniknight",
+    "name": "Omniknight",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/omniknight.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "enchantress",
+    "name": "Enchantress",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enchantress.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "huskar",
+    "name": "Huskar",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/huskar.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "night_stalker",
+    "name": "Night Stalker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/night_stalker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "broodmother",
+    "name": "Broodmother",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "bounty_hunter",
+    "name": "Bounty Hunter",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bounty_hunter.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "weaver",
+    "name": "Weaver",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/weaver.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "jakiro",
+    "name": "Jakiro",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/jakiro.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "batrider",
+    "name": "Batrider",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "chen",
+    "name": "Chen",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chen.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "spectre",
+    "name": "Spectre",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spectre.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "ancient_apparition",
+    "name": "Ancient Apparition",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ancient_apparition.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "doom_bringer",
+    "name": "Doom",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/doom_bringer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "ursa",
+    "name": "Ursa",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ursa.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "spirit_breaker",
+    "name": "Spirit Breaker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/spirit_breaker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "gyrocopter",
+    "name": "Gyrocopter",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/gyrocopter.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "alchemist",
+    "name": "Alchemist",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/alchemist.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "invoker",
+    "name": "Invoker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "silencer",
+    "name": "Silencer",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/silencer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "obsidian_destroyer",
+    "name": "Outworld Destroyer",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/obsidian_destroyer.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "lycan",
+    "name": "Lycan",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lycan.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "brewmaster",
+    "name": "Brewmaster",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "shadow_demon",
+    "name": "Shadow Demon",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shadow_demon.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "lone_druid",
+    "name": "Lone Druid",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lone_druid.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "chaos_knight",
+    "name": "Chaos Knight",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chaos_knight.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "meepo",
+    "name": "Meepo",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/meepo.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "treant",
+    "name": "Treant Protector",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/treant.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "ogre_magi",
+    "name": "Ogre Magi",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ogre_magi.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "undying",
+    "name": "Undying",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/undying.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "rubick",
+    "name": "Rubick",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rubick.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "disruptor",
+    "name": "Disruptor",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "nyx_assassin",
+    "name": "Nyx Assassin",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/nyx_assassin.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "naga_siren",
+    "name": "Naga Siren",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/naga_siren.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "keeper_of_the_light",
+    "name": "Keeper of the Light",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/keeper_of_the_light.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "wisp",
+    "name": "Io",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/wisp.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "visage",
+    "name": "Visage",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/visage.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "slark",
+    "name": "Slark",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/slark.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/medusa.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "troll_warlord",
+    "name": "Troll Warlord",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/troll_warlord.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "centaur",
+    "name": "Centaur Warrunner",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/centaur.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "magnataur",
+    "name": "Magnus",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/magnataur.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "shredder",
+    "name": "Timbersaw",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shredder.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "bristleback",
+    "name": "Bristleback",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bristleback.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "tusk",
+    "name": "Tusk",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/tusk.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "skywrath_mage",
+    "name": "Skywrath Mage",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/skywrath_mage.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "abaddon",
+    "name": "Abaddon",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abaddon.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "elder_titan",
+    "name": "Elder Titan",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/elder_titan.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "legion_commander",
+    "name": "Legion Commander",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/legion_commander.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "techies",
+    "name": "Techies",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/techies.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "ember_spirit",
+    "name": "Ember Spirit",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ember_spirit.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "earth_spirit",
+    "name": "Earth Spirit",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/earth_spirit.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "abyssal_underlord",
+    "name": "Underlord",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abyssal_underlord.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "terrorblade",
+    "name": "Terrorblade",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/terrorblade.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phoenix.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/oracle.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "winter_wyvern",
+    "name": "Winter Wyvern",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/winter_wyvern.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "arc_warden",
+    "name": "Arc Warden",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "monkey_king",
+    "name": "Monkey King",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/monkey_king.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "dark_willow",
+    "name": "Dark Willow",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dark_willow.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "pangolier",
+    "name": "Pangolier",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pangolier.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "grimstroke",
+    "name": "Grimstroke",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/grimstroke.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "hoodwink",
+    "name": "Hoodwink",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/hoodwink.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "void_spirit",
+    "name": "Void Spirit",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/void_spirit.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "snapfire",
+    "name": "Snapfire",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/snapfire.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mars.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "ringmaster",
+    "name": "Ringmaster",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ringmaster.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "dawnbreaker",
+    "name": "Dawnbreaker",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/dawnbreaker.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "marci",
+    "name": "Marci",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/marci.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "primal_beast",
+    "name": "Primal Beast",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/primal_beast.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "muerta",
+    "name": "Muerta",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/muerta.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "kez",
+    "name": "Kez",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/kez.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  },
+  {
+    "id": "largo",
+    "name": "Largo",
+    "imageUrl": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/largo.png",
+    "lanes": [],
+    "tacticalTips": [],
+    "abilities": [],
+    "roles": []
+  }
+]
